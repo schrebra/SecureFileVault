@@ -2,6 +2,9 @@
 
 SecureFileVault is a powerful and user-friendly file encryption and decryption tool built with PowerShell and Windows Forms. It provides a robust solution for protecting sensitive files using AES-256 encryption, one of the strongest encryption standards available.
 
+![20250106_070252](https://github.com/user-attachments/assets/ca030dcb-f4b9-4d72-bdda-78da2372610e)
+
+
 ## Features
 
 - **Strong Encryption**: Utilizes AES-256 encryption for maximum security.
