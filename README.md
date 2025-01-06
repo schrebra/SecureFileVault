@@ -62,10 +62,3 @@ The security of your encrypted files depends on the strength of your password. A
 
 Contributions to improve SecureFileVault are welcome. Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## License
-
-[MIT License](LICENSE)
-
-## Disclaimer
-
-This tool is provided as-is, without any warranties. Always ensure you have backups of your important files before encrypting them.
